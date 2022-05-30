@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>1415</width>
-    <height>944</height>
+    <height>952</height>
    </rect>
   </property>
   <property name="font">
@@ -217,7 +217,7 @@
         </font>
        </property>
        <property name="currentIndex">
-        <number>4</number>
+        <number>1</number>
        </property>
        <widget class="QWidget" name="tab">
         <attribute name="title">
@@ -625,7 +625,7 @@ background-color: rgba(255, 255, 255, 0);</string>
             </font>
            </property>
            <property name="currentIndex">
-            <number>1</number>
+            <number>0</number>
            </property>
            <widget class="QWidget" name="oneshotPage">
             <widget class="QTreeWidget" name="treeWidget">
