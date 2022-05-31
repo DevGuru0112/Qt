@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>1415</width>
-    <height>952</height>
+    <width>1920</width>
+    <height>1028</height>
    </rect>
   </property>
   <property name="font">
@@ -217,7 +217,7 @@
         </font>
        </property>
        <property name="currentIndex">
-        <number>1</number>
+        <number>0</number>
        </property>
        <widget class="QWidget" name="tab">
         <attribute name="title">
@@ -714,8 +714,8 @@ background-color: rgba(255, 255, 255, 0);</string>
               <rect>
                <x>430</x>
                <y>430</y>
-               <width>391</width>
-               <height>201</height>
+               <width>531</width>
+               <height>311</height>
               </rect>
              </property>
              <property name="title">
